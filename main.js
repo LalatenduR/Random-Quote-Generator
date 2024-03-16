@@ -6,8 +6,8 @@ const quote=()=>{
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '7da05822f2msh0ad6baa91cb3119p1f6ac1jsnd0162bf8a6bc',
-		'X-RapidAPI-Host': 'famous-quotes4.p.rapidapi.com'
+		'X-RapidAPI-Key': '',
+		'X-RapidAPI-Host': ''
 	}
 };
 
